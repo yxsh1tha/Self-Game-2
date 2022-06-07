@@ -14,7 +14,7 @@ function preload(){
   phone = loadImage("phone.png");
   school_img = loadImage("school.png");
   van_img = loadAnimation("va1.png","van2.png","van3.png","van4.png","van5.png");
-  blast_img =loadImage("blast.png");
+  //blast_img =loadImage("blast.png");
 }
 
 function setup(){
